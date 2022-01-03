@@ -1,4 +1,4 @@
-### Maven Project
+## Maven Project
 
-## jetty:run  
+### jetty:run  
 requires JDK 7
